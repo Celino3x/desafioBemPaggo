@@ -8,6 +8,9 @@ Neste desafio, desejamos que você implemente um formulário para cadastro de pe
 
 ![modelo](https://www.bempaggo.com.br/wp-content/uploads/2022/03/desafio_1-e1647259797866-1024x707.png)
 
+## Checkout.
+![modelo](./img/checkout.PNG)
+
 ###### Observação: 
 Sinta-se à vontade para propor modificações no formulário, especialmente, de usabilidade e funcionalidade. Se preferir você pode criar uma próxima página simulando um checkout de pagamento.
 
