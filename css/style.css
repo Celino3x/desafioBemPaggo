@@ -34,3 +34,39 @@ h5{
     margin-top: 20px;
     padding-left: 40px;
 }
+
+/*
+    QUANTIDADE
+*/
+
+.quant{
+    margin-top: 20px;
+}
+
+input{
+    border: #46474d solid 1px;
+}
+
+.btn{
+    background-color: #553591;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+}
+
+.btn:hover{
+    background-color: #6d529c;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+}
+
+h5{
+    margin-bottom: 20px;
+}
+
+
