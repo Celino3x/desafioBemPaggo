@@ -47,7 +47,7 @@ input{
     border: #46474d solid 1px;
 }
 
-.btn{
+.btns{
     background-color: #553591;
     color: #FFF;
     font-weight: bold;
@@ -56,7 +56,7 @@ input{
     height: 40px;
 }
 
-.btn:hover{
+.btns:hover{
     background-color: #6d529c;
     color: #FFF;
     font-weight: bold;
@@ -69,4 +69,33 @@ h5{
     margin-bottom: 20px;
 }
 
+/* OBS */
+
+.obs{
+    font-weight: bold;
+}
+
+.divObs{
+    margin-top: 20px;
+}
+
+/* ENVIAR */
+
+.btnSend{
+    background-color: #553591;
+    color: #FFF;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: block;
+    margin-left: auto;
+}
+
+.btnSend:hover{
+    background-color: #6d529c;
+    color: #FFF;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: block;
+    margin-left: auto;
+}
 
