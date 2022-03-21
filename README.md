@@ -8,7 +8,10 @@ Neste desafio, desejamos que você implemente um formulário para cadastro de pe
 
 ![modelo](https://www.bempaggo.com.br/wp-content/uploads/2022/03/desafio_1-e1647259797866-1024x707.png)
 
-## Checkout.
+## Formulário para compra.
+![modelo](./img/form.PNG)
+
+## Checkout
 ![modelo](./img/checkout.PNG)
 
 ###### Observação: 
